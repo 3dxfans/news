@@ -1,0 +1,151 @@
+[
+  {
+    "icon": "fa-solid fa-mobile-screen-button",
+    "badge": "New",
+    "tone": "new",
+    "title": "Meet 3dx Phone",
+    "summary": "Your feed, messages and notifications in a small window that floats over 3DXChat. Check what's new without leaving the game.",
+    "points": [
+      "Download it from the new 3dx Phone page — free with the account you already have, Windows only.",
+      "Three shapes with one click: phone, tablet, or the wide one with Top creators and who to follow.",
+      "Hide it as a small button next to the game's own buttons whenever you need the whole screen.",
+      "Unread messages and notifications stay visible, so you can stop alt-tabbing mid-scene.",
+      "It never touches 3DXChat: no patches, no mods, and no game file is read or changed."
+    ],
+    "date": "2026-11-01",
+    "flag": "3dx-phone",
+    "cta": {
+      "label": "Get 3dx Phone",
+      "routerLink": "/3dx-phone"
+    }
+  },
+  {
+    "icon": "fa-solid fa-circle-play",
+    "badge": "New",
+    "tone": "new",
+    "title": "Stories are here",
+    "summary": "Share what you're up to right now — your story lives for 3 days, then it's gone. Tap your bubble at the top of the feed to start.",
+    "points": [
+      "Pick up to 10 photos, add a short caption if you want, and post. No overthinking — it disappears in 72 hours.",
+      "See who has new stories at a glance: the colored ring means there's something you haven't seen yet.",
+      "Hold the screen to pause a slide, tap the sides to go back or forward. Works with arrow keys too.",
+      "See how many people viewed your story — each person counts once, no matter how many times they watch.",
+      "Promoting a calendar event? Share it as a story and anyone who sees it can tap straight to the event page."
+    ],
+    "date": "2026-10-18",
+    "cta": {
+      "label": "Create your first story",
+      "routerLink": "/feed"
+    }
+  },
+  {
+    "icon": "fa-solid fa-calendar-days",
+    "badge": "New",
+    "tone": "new",
+    "title": "Your calendar, your plans",
+    "summary": "See what's happening and who's going. Create events, RSVP, and share them as stories so your people don't miss out.",
+    "points": [
+      "Browse the calendar to see upcoming events — parties, meetups, streams, whatever the community is planning.",
+      "RSVP to let everyone know if you're going, maybe, or not. See the attendee list and who else is coming.",
+      "Every event gets its own page with a cover image, description, location, and all the details you need.",
+      "Share any event as a story — your followers see it for 3 days and can tap straight to the event page.",
+      "Tag your events so the right people find them — art, gaming, IRL meetups, you name it."
+    ],
+    "date": "2026-10-18",
+    "cta": {
+      "label": "Open calendar",
+      "routerLink": "/calendar"
+    }
+  },
+  {
+    "icon": "fa-brands fa-spotify",
+    "badge": "New",
+    "tone": "spotify",
+    "title": "Spotify music on your profile",
+    "summary": "Pin up to 5 songs so anyone visiting your profile can press play. Nothing about your Spotify account is involved.",
+    "points": [
+      "Share your favorite music with 3DXFans: your profile becomes a playlist your visitors can play.",
+      "The only thing we store is the song id inside the link you paste. We pull no information from Spotify — no account access, no name, no email, no playlists, no listening history.",
+      "The player is Spotify's own official embed, loaded from open.spotify.com. When you press play, that traffic is between you and Spotify and follows Spotify's privacy policy.",
+      "Add a song from Spotify with Share → Copy Song Link, then paste it in Settings → Music. Playlist, album and artist links are not accepted.",
+      "Mark any song as featured to lead the rail on your profile; the rest follow in the order you set.",
+      "Rather not see players at all? Flip the switch just below - or the same one in Settings → Music - and no profile shows them to you, your own included."
+    ],
+    "date": "2026-10-14",
+    "cta": {
+      "label": "Add your songs",
+      "routerLink": "/settings",
+      "queryParams": {
+        "section": "music"
+      }
+    },
+    "prefControl": "hideSpotifyPlayers"
+  },
+  {
+    "icon": "fa-solid fa-lock",
+    "badge": "New",
+    "tone": "new",
+    "title": "Your own private radio",
+    "summary": "Want a station only your people can touch? Ask an admin to set one up for you.",
+    "points": [
+      "An admin can turn any station into a private radio, locked behind a secret code.",
+      "Only the people who get the code can add songs, pause or skip — everyone else just listens.",
+      "Perfect for events, crews, or whenever you want full control over the playlist.",
+      "Talk to an admin if you want your own private station."
+    ],
+    "date": "2026-10-12",
+    "cta": {
+      "label": "Open Radio",
+      "routerLink": "/radio"
+    }
+  },
+  {
+    "icon": "fa-solid fa-bell",
+    "badge": "New",
+    "tone": "discord",
+    "title": "Notifications & Discord alerts",
+    "summary": "Never miss activity on your posts — now in real time and straight to Discord.",
+    "points": [
+      "Likes, comments and mentions notify you instantly, with a live unread badge.",
+      "Connect your Discord in Settings → Notifications to receive alerts as a bot DM.",
+      "First join our Discord server, then link your account so the bot can message you.",
+      "Per-type toggles let you choose comments, likes, new followers or mentions."
+    ],
+    "date": "2026-10-12",
+    "cta": {
+      "label": "Open Settings",
+      "routerLink": "/settings"
+    }
+  },
+  {
+    "icon": "fa-solid fa-at",
+    "badge": "Improved",
+    "tone": "improved",
+    "title": "@mentions in comments & replies",
+    "summary": "Tagging people now works everywhere, not just in post captions.",
+    "points": [
+      "Type @ in any comment or reply to autocomplete a user, with keyboard navigation.",
+      "Mentions render as clickable links that open the person's profile.",
+      "Tagged users get a notification — in-app, and via Discord if they connected it."
+    ],
+    "date": "2026-10-12"
+  },
+  {
+    "icon": "fa-solid fa-crown",
+    "badge": "Feature",
+    "tone": "feature",
+    "title": "Premium access codes",
+    "summary": "Share your exclusive content with a personal access code.",
+    "points": [
+      "Generate your own 8-character code in Settings → Premium.",
+      "Fans redeem it on your profile to unlock your premium posts.",
+      "Access is permanent until you remove a subscriber from your list.",
+      "Rotate your code anytime to invalidate the previous one."
+    ],
+    "date": "2026-10-12",
+    "cta": {
+      "label": "Manage Premium",
+      "routerLink": "/settings"
+    }
+  }
+]
